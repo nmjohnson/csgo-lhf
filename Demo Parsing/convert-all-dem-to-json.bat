@@ -1,0 +1,1 @@
+for %%F in (*.dem) do python dem-to-json.py --input %%F
